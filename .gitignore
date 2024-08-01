@@ -5,6 +5,8 @@ __pycache__/
 # IPython checkpoints
 .ipynb_checkpoints/
 
+/fma_metadata/*
+
 # Environment
 .env
 .python-version
